@@ -2,7 +2,7 @@
 
 The provided code was shared via our Google Co-Lab, we chose to include our sections on MOE however we find the results to be quite undesireable with our implementations.
 
-Please see the lines below in our Test_2.pynb file for adjustments to dataset configuration, target columns, or any of the listed perameters.
+Please see the lines below in our SWAV.pynb file for adjustments to dataset configuration, target columns, or any of the listed perameters.
 
 # === User configuration ===
 * FILE_PATH = "/content/personality_dataset.csv"  # Path to your data file (.csv or .data)
