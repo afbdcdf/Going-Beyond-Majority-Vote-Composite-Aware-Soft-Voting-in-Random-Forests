@@ -1,6 +1,6 @@
 # Going-Beyond-Majority-Vote-Composite-Aware-Soft-Voting-in-Random-Forests
 
-The provided code was shared via our Google Co-Lab, we chose to include our sections on MOE however we find the results to be quite undesireable with our implementations.
+The provided code was shared via our Google Co-Lab.
 
 Please see the lines below in our SWAV.pynb file for adjustments to dataset configuration, target columns, or any of the listed perameters.
 
