@@ -15,3 +15,6 @@ Please see the lines below in our SWAV.pynb file for adjustments to dataset conf
 * COMPOSITE_WEIGHTS = [1.0, 1.0, 1.0, 1.0]  # [accuracy, precision, recall, f1]
 
 Please note there are three python programs listed in the file we have shared. They vary in their preprocessing which allowed us to run our experiments on a wider variety of datasets.
+
+
+You can replicate our noise results through our noisydata file or attempt your own using our noiseapply.py please see in file commments for instruction.
