@@ -21,7 +21,9 @@ You can replicate our noise results through our noisydata google drive which has
 
 https://drive.google.com/drive/folders/1N4ucHox0WQkYBHVgoYM_BNhKUBm6fxw-?usp=drive_link
 
-Important: Please note that you must replace the line for the BankMarketing.csv files
+If you are interested in testing datasets with split files for the labels or the plane dataset please use the planeSWAV.pynb file
+
+Please note that you must replace the line for the BankMarketing.csv files
 
 df = pd.read_csv('your_file.csv')
 with
