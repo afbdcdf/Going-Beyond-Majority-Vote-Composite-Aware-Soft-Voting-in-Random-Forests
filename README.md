@@ -18,3 +18,10 @@ Please note there are three python programs listed in the file we have shared. T
 
 
 You can replicate our noise results through our noisydata file or attempt your own using our noiseapply.py please see in file commments for instruction.
+
+
+Important: Please note that you must replace the line for the BankMarketing.csv files
+
+df = pd.read_csv('your_file.csv')
+with
+df = pd.read_csv('your_file.csv', sep=';')
