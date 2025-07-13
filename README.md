@@ -17,7 +17,7 @@ Please see the lines below in our SWAV.pynb file for adjustments to dataset conf
 Please note there are three python programs listed in the file we have shared. They vary in their preprocessing which allowed us to run our experiments on a wider variety of datasets.
 
 
-You can replicate our noise results through our noisydata google drive or attempt your own using our noiseapply.py please see in file commments for instruction.
+You can replicate our noise results through our noisydata google drive which has the exact noise injected data we used, or attempt your own using our noiseapply.py. Please see in file commments for instruction.
 
 https://drive.google.com/drive/folders/1N4ucHox0WQkYBHVgoYM_BNhKUBm6fxw-?usp=drive_link
 
