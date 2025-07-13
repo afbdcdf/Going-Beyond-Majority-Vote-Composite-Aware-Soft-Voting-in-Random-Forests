@@ -28,3 +28,5 @@ Please note that you must replace the line for the BankMarketing.csv files
 df = pd.read_csv('your_file.csv')
 with
 df = pd.read_csv('your_file.csv', sep=';')
+
+Additionally please note that you must make sure TARGET_COLUMN is set to the right value as not all datasets have their target collumn as the last index.
